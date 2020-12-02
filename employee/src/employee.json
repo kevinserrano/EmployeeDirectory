@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Chevy Chase",
+        "position": "CEO",
+        "pay": 250000,
+        "email": "clark.griswald@christmasvacation.com"
+    },
+    {
+        "id": 2,
+        "name": "Jim Carrey",
+        "position": "Vice President",
+        "pay": 225000,
+        "email": "ace@ventura.com"
+    },
+    {
+        "id": 3,
+        "name": "Rodney Dangerfield",
+        "position": "Manager",
+        "pay": 175000,
+        "department": "Administration",
+        "email": "norespect@rug.com"
+    },
+    {
+        "id": 4,
+        "name": "Kevin Hart",
+        "position": "Developer",
+        "pay": 100200,
+        "department": "Comedic Team",
+        "email": "littlefoot@bighart.com"
+    },
+    {
+        "id": 5,
+        "name": "Bill Murray",
+        "position": "Developer",
+        "pay": 100200,
+        "department": "Comedic Team",
+        "email": "ghost@busters.com"
+    },
+    {
+        "id": 6,
+        "name": "Kevin Serrano",
+        "position": "Intern",
+        "pay": 75000,
+        "department": "Comedic Team",
+        "email": "kserrano@ready.com"
+    }
+]
