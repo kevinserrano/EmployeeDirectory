@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "name": "Chevy Chase",
+        "position": "Manager",
+        "pay": 120000,
+        "department": "Admin",
+        "email": "clark.griswald@christmasvacation.com"
+    },
+    {
+        "id": 1,
+        "name": "Jim Carrey",
+        "position": "Assistant Manager",
+        "pay": 100000,
+        "department": "Admin",
+        "email": "ace@ventura.com"
+    },
+    {
+        "id": 2,
+        "name": "Kevin Serrano",
+        "position": "Receptionist",
+        "pay": 40000,
+        "department": "Admin",
+        "email": "pepper@serrano.com"
+    },
+    {
+        "id": 3,
+        "name": "Rodney Dangerfield",
+        "position": "Full-Stack Developer",
+        "pay": 85000,
+        "department": "Coding",
+        "email": "ImLosingToA-Rug@alladin.com"
+    },
+    {
+        "id": 4,
+        "name": "Kevin Hart",
+        "position": "Full-Stack Developer",
+        "pay": 85000,
+        "department": "Coding",
+        "email": "littlefoot@bighart.com"
+    },
+    {
+        "id": 5,
+        "name": "Bill Murray",
+        "position": "Front-End Developer",
+        "pay": 70000,
+        "department": "Coding",
+        "email": "ghost@busters.com"
+    },
+    {
+        "id": 6,
+        "name": "Mel Gibson",
+        "position": "Tester",
+        "pay": 60000,
+        "department": "Code Testing",
+        "email": "william@wallace.com"
+    }
+]

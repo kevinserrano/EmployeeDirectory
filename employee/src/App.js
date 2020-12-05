@@ -1,11 +1,19 @@
 
 import './App.css';
-import Header from "./components/Header/index.js"
+import EmployeeCard from './components/EmployeeCard/index';
+import Header from "./components/Header/index.js";
+import employees from "./seeder/employee.json";
+
+
 
 function App() {
   return (
-   <Header/>
+    <div>
+    <Header/>
+    <EmployeeCard employee = {employees}/>
+    </div>
   );
 }
+
 
 export default App;
