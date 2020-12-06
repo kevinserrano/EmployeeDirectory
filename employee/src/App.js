@@ -1,16 +1,13 @@
-
 import './App.css';
-import EmployeeCard from './components/EmployeeCard/index';
-import Header from "./components/Header/index.js";
-import employees from "./seeder/employee.json";
+import Main from "../src/components/MainCard";
 
 
 
 function App() {
   return (
     <div>
-    <Header/>
-    <EmployeeCard employee = {employees}/>
+    <Main/>
+
     </div>
   );
 }
