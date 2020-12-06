@@ -1,5 +1,5 @@
 import './App.css';
-import Main from "../src/components/MainCard";
+import Main from "./components/MainCard";
 
 
 
